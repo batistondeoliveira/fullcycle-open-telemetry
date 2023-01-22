@@ -9,6 +9,9 @@ Site = https://opentelemetry.io/
 Projeto Zipkin = https://zipkin.io/
 
 Repositorios importantes:
+
    https://github.com/open-telemetry
+      
       opentelemetry-collector: https://github.com/open-telemetry/opentelemetry-collector
+      
       opentelemetry-collector-contrib: https://github.com/open-telemetry/opentelemetry-collector-contrib
